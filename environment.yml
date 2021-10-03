@@ -1,0 +1,13 @@
+name: labeled-maps
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - scipy
+  - folium

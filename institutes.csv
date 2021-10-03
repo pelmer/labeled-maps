@@ -1,0 +1,124 @@
+1:US:High Energy Physics Division, Argonne National Laboratory, Argonne, IL, USA
+2:US:Physics Department, Brookhaven National Laboratory, Upton, NY, USA
+3:BR:Centro Brasileiro de Pesquisas Físicas, Rio de Janeiro, Brazil
+4:FR:Centre de Calcul de l’IN2P3, Villeurbanne, Lyon, France
+5:CERN:CERN, Geneva, Switzerland
+6:US:Center for High Throughput Computing, Computer Sciences Department, University of Wisconsin-Madison, Madison, WI, USA
+7:ES:Centro de Investigaciones Energéticas Medioambientales y Tecnológicas (CIEMAT), Madrid, Spain
+8:MX:Cinvestav, Mexico City, Mexico
+9:IT:Centro Nazionale Analisi Fotogrammi (CNAF), INFN, Bologna, Italy
+10:ZA:Center for High Performance Computing, Cape Town, South Africa
+11:US:California Institute of Technology, Pasadena, CA, USA
+12:US:Cornell University, Ithaca, NY, USA
+13:DE:Deutsches Elektronen-Synchrotron, Hamburg, Germany
+14:CH:Institute of Physics, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+15:CH:ETH Zürich-Institute for Particle Physics and Astrophysics (IPA), Zurich, Switzerland
+16:US:Fermi National Accelerator Laboratory, Batavia, IL, USA
+17:DE:University of Hamburg, Hamburg, Germany
+18:FI:Helsinki Institute of Physics, Helsinki, Finland
+19:IT:International Center for Theoretical Physics, Trieste, Italy
+20:ES:Institut de Física d’Altes Energies and Departament de Física de la Universitat Autònoma de Barcelona and ICREA, Barcelona, Spain
+21:ES:Instituto de Física de Cantabria (IFCA), CSIC-Universidad de Cantabria, Santander, Spain
+22:ES:Instituto de Física Corpuscular, Centro Mixto Universidad de Valencia-CSIC, Valencia, Spain
+23:CN:Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+24:US:Department of Physics, Indiana University, Bloomington, IN, USA
+25:US:INFN Sezione di Bologna, Università di Bologna, Bologna, Italy
+26:IT:INFN Sezione di Bari, Università di Bari, Politecnico di Bari, Bari, Italy
+27:IT:INFN Sezione di Catania, Università di Catania, Catania, Italy
+28:IT:Università e INFN Ferrara, Ferrara, Italy
+29:IT:INFN Sezione di Genova, Genoa, Italy
+30:IT:INFN Sezione di Milano-Bicocca, Milan, Italy
+31:IT:INFN Sezione di Napoli, Università di Napoli, Naples, Italy
+32:IT:INFN Sezione di Pisa, Università di Pisa, Scuola Normale Superiore di Pisa, Pisa, Italy
+33:IT:INFN Sezione di Padova, Università di Padova b, Padua, Italy
+34:IT:INFN Sezione di Roma I, Università La Sapienza, Rome, Italy
+35:IT:INFN Sezione di Trieste, Università di Trieste, Trieste, Italy
+36:IT:INFN Sezione di Torino, Turin, Italy
+37:FR:Université de Strasbourg, CNRS, IPHC UMR 7178, 67000 Strasbourg, France
+38:UK:Imperial College London, London, UK
+39:FR:DSM/IRFU (Institut de Recherches sur les Lois Fondamentales de l’Univers), CEA Saclay (Commissariat à l’Énergie Atomique), Gif‑sur‑Yvette, France
+40:US:Thomas Jefferson National Accelerator Facility, Newport News, Virginia, VA, USA
+41:SL:Jožef Stefan Institute, Ljubljana, Slovenia
+42:DE:Karlsruhe Institute of Technology, Karlsruhe, Germany
+43:PL:AGH University of Science and Technology, Faculty of Physics and Applied Computer Science, Kraków, Poland
+44:KR:Kyungpook National University, Daegu, Republic of Korea
+45:FR:LAL, Université Paris-Sud and CNRS/IN2P3, Orsay, France
+46:US:Lawrence Berkeley National Laboratory and University of California, Berkeley, CA, USA
+47:PT:Laboratório de Instrumentação e Física Experimental de Partículas (LIP), Lisbon, Portugal
+48:FR:Laboratoire Leprince-Ringuet, École Polytechnique, CNRS/IN2P3, Université Paris-Saclay, Palaiseau, France
+49:DE:Fakultät für Physik, Ludwig-Maximilians-Universität München, Munich, Germany
+50:FR:Laboratoire de Physique Corpusculaire, Clermont Université and Université Blaise Pascal, CNRS/IN2P3, Clermont‑Ferrand, France
+51:FR:Laboratoire de Physique Nucléaire et de Hautes Energies (LPNHE), Sorbonne Université, Université Paris Diderot, CNRS/IN2P3, Paris, France
+52:FR:Laboratoire de Physique Subatomique et de Cosmologie, Université Joseph Fourier, CNRS/IN2P3, Institut National Polytechnique de Grenoble, Grenoble, France
+53:US:Massachusetts Institute of Technology, Cambridge, MA, USA
+54:DE:Max-Planck-Institut für Physik (Werner-Heisenberg-Institut), Munich, Germany
+55:DK:Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark
+56:NL:Nikhef National Institute for Subatomic Physics, Amsterdam, The Netherlands
+57:US:Department of Physics, New York University, New York, NY, USA
+58:US:Center for High Energy Physics, University of Oregon, Eugene, OR, USA
+59:ES:Port d’Informació Científica (PIC), Universitat Autònoma de Barcelona (UAB), Barcelona, Spain
+60:RU:High Energy Physics (IHEP), Protvino, Russia
+61:UK:STFC Rutherford Appleton Laboratory, Didcot, UK
+62:UK:Department of Physics, Royal Holloway University of London, Surrey, UK
+63:US:SLAC National Accelerator Laboratory, Menlo Park, CA, USA
+64:US:Simons Foundation, New York, NY, USA
+65:DE:SoundCloud, Berlin, Germany
+66:FR:SUBATECH, IMT Atlantique, Université de Nantes, CNRS-IN2P3, Nantes, France
+67:TW:National Taiwan University, Taipei, Taiwan
+68:IN:Tata Institute of Fundamental Research, Mumbai, India
+69:DE:Technische Universität Dortmund, Dortmund, Germany
+70:CA:Department of Physics, University of Alberta, Edmonton, AB, Canada
+71:US:Department of Physics, University of Arizona, Tucson, AZ, USA
+72:UK:H.H. Wills Physics Laboratory, University of Bristol, Bristol, UK
+73:CA:Department of Physics, University of British Columbia, Vancouver, BC, Canada
+74:US:Department of Physics and Astronomy, University of California Irvine, Irvine, CA, USA
+75:US:University of California, San Diego, La Jolla, CA, USA
+76:UK:Cavendish Laboratory, University of Cambridge, Cambridge, UK
+77:ZA:Physics Department, University of Cape Town, Cape Town, South Africa
+78:CA:Carleton University, Ottawa, ON, Canada
+79:US:University of Illinois Urbana-Champaign, Champaign, IL, USA
+80:US:Enrico Fermi Institute, University of Chicago, Chicago, IL, USA
+81:US:University of Cincinnati, Cincinnati, OH, USA
+82:US:Department of Physics, Duke University, Durham, NC, USA
+83:UK:SUPA‑School of Physics and Astronomy, University of Edinburgh, Edinburgh, UK
+84:KR:Gangneung-Wonju National University, Gangneung, South Korea
+85:CH:Section de Physique, Université de Genève, Geneva, Switzerland
+86:UK:SUPA‑School of Physics and Astronomy, University of Glasgow, Glasgow, UK
+87:DE:Physikalisches Institut, Ruprecht-Karls-Universitat Heidelberg, Heidelberg, Germany
+88:US:Department of Physics and Astronomy, University of Kentucky, Lexington, KY, USA
+89:UK:Physics Department, Lancaster University, Lancaster, UK
+90:SL:Department of Physics, Jožef Stefan Institute and University of Ljubljana, Ljubljana, Slovenia
+91:SE:Fysiska institutionen, Lunds Universitet, Lund, Sweden
+92:UK:School of Physics and Astronomy, University of Manchester, Manchester, UK
+93:SL:University of Maribor, Ljubljana, Slovenia
+94:US:Department of Physics, University of Massachusetts, Amherst, MA, USA
+95:US:Department of Physics, The University of Michigan, Ann Arbor, MI, USA
+96:PT:Departamento de Física, Universidade do Minho, Braga, Portugal
+97:US:University of Nebraska-Lincoln, Lincoln, NE, USA
+98:US:Department of Physics and Astronomy, University of New Mexico, Albuquerque, NM, USA
+99:US:University of Notre Dame, Notre Dame, IN, USA
+100:US:Homer L. Dodge Department of Physics and Astronomy, University of Oklahoma, Norman, OK, USA
+101:US:The Ohio State University, Columbus, OH, USA
+102:NO:Department of Physics, University of Oslo, Oslo, Norway
+103:ES:Universidad de Oviedo, Oviedo, Spain
+104:UK:Department of Physics, Oxford University, Oxford, UK
+105:US:Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, PA, USA
+106:US:Princeton University, Princeton, NJ, USA
+107:US:Rice University, Houston, TX, USA
+108:BR:Universidade Estadual Paulista, São Paulo, Brazil
+109:IT:Dipartimento di Fisica, Università La Sapienza, Rome, Italy
+110:US:University of Washington, Seattle, WA, USA
+111:CN:School of Physics, Shandong University, Shandong, China
+112:UK:Department of Physics and Astronomy, University of Sheffield, Sheffield, UK
+113:BG:University of Sofia, Sofia, Bulgaria
+114:US:Department of Physics, The University of Texas at Arlington, Arlington, TX, USA
+115:RU:National Research Tomsk Polytechnic University, Tomsk, Russia
+116:CA:Department of Physics, University of Toronto, Toronto, ON, Canada
+117:IT:Dipartimento di Chimica, Fisica e Ambiente, Università di Udine, Udine, Italy
+118:UK:Department of Physics, University of Warwick, Coventry, UK
+119:US:University of Wisconsin-Madison, Madison, WI, USA
+120:US:Department of Physics, Yale University, New Haven, CT, USA
+121:CH:Physik‑Institut, Universität Zürich, Zurich, Switzerland
+122:VN:IOP and GUST, Vietnam Academy of Science and Technology (VAST), Hanoi, Vietnam
+123:US:Virginia Tech, Blacksburg, Virginia, VA, USA
+124:NL:Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
