@@ -1,0 +1,18 @@
+{"__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+  "BM": {
+    "__comment__": "Blue Marble Next Generation, July ",
+    "__source__": "https://neo.sci.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG-TB",
+    "__projection__": "PlateCarree",
+    "low": "bluemarble1degrees.jpeg",
+    "high": "bluemarble01degrees.jpeg"},
+  "ETOPO": {
+    "__comment__": "ETOPO",
+    "__source__": "https://www.ngdc.noaa.gov/mgg/global/global.html",
+    "__projection__": "PlateCarree",
+    "high": "color_etopo1_ice_low.jpg"},
+  "NEFULL": {
+    "__comment__": "NEFULL",
+    "__source__": "https://www.naturalearthdata.com/downloads/50m-natural-earth-1/50m-natural-earth-i-with-shaded-relief-and-water/",
+    "__projection__": "PlateCarree",
+    "high": "NE1_50M_SR_W.jpg"}
+}
